@@ -8,4 +8,4 @@ Install the Setup version once. It checks for updates and downloads them in the 
 
 [Support Bluewave on Ko-fi](https://ko-fi.com/workerdave)
 
-Copyright WorkerDave. Bluewave-owned application code is proprietary. Third-party dependencies retain their respective licenses. Distributed executables can be inspected; a private source repository does not make a desktop executable impossible to reverse engineer.
+Copyright WorkerDave. Bluewave-owned application code is proprietary. Third-party dependencies retain their respective licenses.
